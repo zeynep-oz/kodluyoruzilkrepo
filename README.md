@@ -3,13 +3,15 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Bu repo [kodluyoruz](https://www.kodluyoruz.org/cs50x) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir ader README.md dosyası, bir adet de index.html barındırıyor
 
-![ProjeResim]()
+![](git )
 
 # Installation
 
 Öncelikle projeyi clonelayın. https://github.com/zeynep-oz/kodluyoruzilkrepo.git
 
-"""git clone https://github.com/zeynep-oz/kodluyoruzilkrepo.git"""
+```
+git clone https://github.com/zeynep-oz/kodluyoruzilkrepo.git
+```
 
 # USAGE
 
@@ -17,7 +19,9 @@ Projeyi klonladıktan sonra Visual Studio Code içerisinde açınız.
 
 Linux için:
 
-"""cd kodluyoruzilkrepo code ."""
+```
+cd kodluyoruzilkrepo code .
+```
 
 # CONTRİBUTİNG
 
