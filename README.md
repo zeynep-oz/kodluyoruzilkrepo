@@ -1,9 +1,9 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-Bu repo [kodluyoruz](https://www.kodluyoruz.org/cs50x) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir ader README.md dosyası, bir adet de index.html barındırıyor
+Bu repo [kodluyoruz](https://www.kodluyoruz.org/cs50x) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir ader README.md dosyası, bir adet de index.html barındırıyor.
 
-![](git )
+![Proje](c:\Users\Zeynep\Desktop\KodluyoruzProje.png)
 
 # Installation
 
